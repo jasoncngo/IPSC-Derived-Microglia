@@ -1,0 +1,14 @@
+name: IPSC-derived-Microglia
+title: IPSC-derived-Microglia
+username:
+account: jasonchungngo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7681393
+bundleId: 6912821
+url: https://jasonchungngo.shinyapps.io/IPSC-derived-Microglia/
+when: 1677868591.0751
+lastSyncTime: 1677868591.07512
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cytoplot.png|cytopy2.py|ms.xls|msplot.png
